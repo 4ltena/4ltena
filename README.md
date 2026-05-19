@@ -88,7 +88,7 @@
  
 ---
  
-## 🎯 Planned Certifications
+## 🎯 Planned Certifications (2026)
  
 ### ☁️ Infrastructure / Network
 - [ ] LPIC 101
