@@ -17,16 +17,10 @@
 ---
 
 ## GitHub Stats
-<table align="center">
-  <tr>
-    <td><img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details"></td>
-    <td><img src="profile-summary-card-output/default/1-repo-names.svg" alt="Repo Names"></td>
-  </tr>
-  <tr>
-    <td><img src="profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commit Language"></td>
-    <td><img src="profile-summary-card-output/default/3-stats.svg" alt="Stats"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4ltena&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ltena&layout=compact&theme=dark&hide_border=true" height="160">
+</p>
 
 ---
 
