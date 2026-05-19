@@ -97,7 +97,7 @@
 - [ ] LPIC 202
 - [ ] さくらのクラウド検定
 - [ ] CCNA
-- [ ] Cisco DevNet Associate (DevAss)
+- [ ] Cisco DevNet Associate (DevAsc)
 - [ ] AWS Solutions Architect Associate (AWS-SAA)
 - [ ] AWS Certified Data Engineer Associate (AWS-DEA)
 ### 📊 Data Science / AI
