@@ -17,16 +17,11 @@
 ---
 
 ## 📊 GitHub Stats
- 
-<p align="center">
-  <img src="/profile-summary-card-output/default/0-profile-details.svg">
-  <img src="/profile-summary-card-output/default/1-repo-names.svg">
-</p>
-<p align="center">
-  <img src="/profile-summary-card-output/default/2-most-commit-language.svg">
-  <img src="/profile-summary-card-output/default/3-stats.svg">
-</p>
 
+<img src="/profile-summary-card-output/default/0-profile-details.svg">
+<img src="/profile-summary-card-output/default/1-repo-names.svg">
+<img src="/profile-summary-card-output/default/2-most-commit-language.svg">
+<img src="/profile-summary-card-output/default/3-stats.svg">
 
 ---
 
