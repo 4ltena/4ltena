@@ -11,12 +11,12 @@
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=4ltena&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4ltena&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="160">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ltena&layout=compact&theme=dark&hide_border=true" height="160">
@@ -24,7 +24,7 @@
 
 ---
 
-## Skills & Tools
+## 🛠 Skills & Tools
 
 ### 🔤 Languages
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -66,7 +66,7 @@
 
 ---
  
-## Achievements
+## 🏆 Achievements
  
 | 内容 | 年 |
 |------|----|
@@ -74,7 +74,7 @@
  
 ---
  
-## Certifications
+## 📜 Certifications
  
 | 資格名 | 年 |
 |--------|----|
@@ -120,7 +120,7 @@
 
 ---
 
-## Notable Projects
+## 📌 Notable Projects
 
 | プロジェクト | 概要 | 技術スタック |
 |---|---|---|
@@ -130,5 +130,5 @@
 
 ---
 
-## And more
+## 📫 And more
 [My Portfolio](https://4ltena.github.io/portfolio/)
