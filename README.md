@@ -87,6 +87,38 @@
 | ITパスポート | 2023 |
  
 ---
+ 
+## 🎯 Planned Certifications
+ 
+### ☁️ Infrastructure / Network
+- [ ] LPIC 101
+- [ ] LPIC 102
+- [ ] LPIC 201
+- [ ] LPIC 202
+- [ ] さくらのクラウド検定
+- [ ] CCNA
+- [ ] Cisco DevNet Associate (DevAss)
+- [ ] AWS Solutions Architect Associate (AWS-SAA)
+- [ ] AWS Certified Data Engineer Associate (AWS-DEA)
+### 📊 Data Science / AI
+- [ ] 統計検定 2級
+- [ ] 統計検定 準1級
+- [ ] DS検定
+### 🌐 English
+- [ ] 実用英語技能検定 準2級
+- [ ] 実用英語技能検定 2級
+- [ ] TOEIC 700+
+### 📚️ Engineering / Education
+- [ ] 第二種電気工事士
+- [ ] 品質管理検定 3級 (QC3級)
+- [ ] 日本漢字能力検定 準1級
+- [ ] 日本漢字能力検定 1級
+- [ ] 日商簿記 2級
+- [ ] 実用数学技能検定 2級
+- [ ] 実用数学技能検定 準1級
+
+
+---
 
 ## Notable Projects
 
