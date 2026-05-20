@@ -34,7 +34,6 @@
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/HTML5_/_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
  
 ### 🌐 Web / Backend
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -61,6 +60,7 @@
 ![](https://img.shields.io/badge/-k8s-EEE.svg?logo=kubernetes&style=flat)
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
  
 ### 🔧 Dev Tools
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
