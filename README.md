@@ -107,7 +107,7 @@
 ## 🎯 Planned Certifications (2026)
  
 ### ☁️ Infrastructure / Network
-- [ ] LPIC 101
+- [x] LPIC 101 (2026-05-24T13:00:00+09:00)
 - [ ] LPIC 102
 - [ ] LPIC 201
 - [ ] LPIC 202
