@@ -145,4 +145,4 @@
 |---|---|---|
 | [discord-SchoolTaskManager](https://github.com/4ltena/discord-SchoolTaskManager) | 課題期限をDiscordで管理するBOT。Google Calendar連携・Docker化・クラスDiscordで運用まで実施 | Python / Docker / Google Calendar API |
 | [BirdMonitoring](https://github.com/4ltena/BirdMonitoring) | Raspberry Pi を用いたモニタリングシステム | Python / YOLO / Raspberry Pi |
-| [Portfolio Site](https://4ltena.github.io/portfolio/) | 自作ポートフォリオサイト（Timeline・Works・資格一覧を掲載） | HTML / CSS / JavaScript |
+| [Portfolio Site](https://github.com/4ltena/portfolio) | 自作ポートフォリオサイト（Timeline・Works・資格一覧を掲載） | HTML / CSS / JavaScript |
