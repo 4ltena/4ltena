@@ -27,47 +27,47 @@
 
 ## 🛠 Skills & Tools
 
-### 🔤 Languages
+### Languages
 ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/HTML5_/_CSS3-E34F26?logo=html5&logoColor=white)
  
-### 🌐 Web / Backend
+### Web / Backend
 ![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
-### 🗄️ Database
+### Database
 ![](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-### 📊 Data Science & AI
+### Data Science & AI
 ![](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
 ![](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-### 🎮 Game & 3D Development
+### Game & 3D Development
 ![](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 ![](https://img.shields.io/badge/Maya-37A5CC?logo=autodesk&logoColor=white)
 ![](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black)
 ![](https://img.shields.io/badge/Unreal_Engine-0E1128?logo=unrealengine&logoColor=white)
 
-### 🔌 IoT & Hardware
+### IoT & Hardware
 ![](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white)
 ![](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
  
-### ☁️ Infrastructure & DevOps
+### Infrastructure & DevOps
 ![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
  
-### 📚 Learning / Interested
+### Learning / Interested
 ![](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -76,7 +76,7 @@
 ![](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
  
-### 🔧 Dev Tools
+### Dev Tools
 ![](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
@@ -106,7 +106,7 @@
  
 ## 🎯 Planned Certifications (2026)
  
-### ☁️ Infrastructure / Network
+### Infrastructure / Network
 - [x] LPIC 101 (2026-05-24T13:00:00+09:00)
 - [x] LPIC 102 (2026-05-31T13:00:00+09:00)
 - [ ] LPIC 201
@@ -118,15 +118,15 @@
 - [ ] AWS Certified Data Engineer Associate (AWS-DEA)
 - [ ] 第二級デジタル通信
 - [ ] 第一級デジタル通信
-### 📊 Data Science / AI
+### Data Science / AI
 - [ ] 統計検定 2級
 - [ ] 統計検定 準1級
 - [ ] DS検定
-### 🌐 English
+### English
 - [ ] 実用英語技能検定 準2級
 - [ ] 実用英語技能検定 2級
 - [ ] TOEIC 700+
-### 📚️ Engineering / Education
+### Engineering / Education
 - [ ] 第二種電気工事士
 - [ ] 品質管理検定 3級 (QC3級)
 - [ ] 品質管理検定 2級 (QC2級)
