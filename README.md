@@ -146,3 +146,76 @@
 - [ ] 実用数学技能検定 2級
 - [ ] 実用数学技能検定 準1級
 - [ ] 実用数学技能検定 1級
+
+## 📦 Projects
+GitHub 上で公開しているプロジェクトをカテゴリ別にまとめています。
+
+### デスクトップ / CLI ツール
+
+- **[projstat](https://github.com/4ltena/projstat)** `Go` — ローカルのプロジェクトを Planning / Coding / Done に自動分類する単一バイナリのローカル Web ダッシュボード（外部通信なし）。
+- **[Mermaid Local Editor](https://github.com/4ltena/mermaid-local-editor)** `TypeScript` — 完全ローカル・オフラインで動作するクロスプラットフォームの Mermaid ダイアグラムエディタ（mermaid.live のデスクトップ版）。
+  
+### Discord Bot
+
+- **[discord-SchoolTaskManager](https://github.com/4ltena/discord-SchoolTaskManager)** `Python` — Google Calendar と連携し課題・期限を管理する Discord Bot。
+
+### Web サイト
+
+- **[portfolio](https://github.com/4ltena/portfolio)** `HTML` — ポートフォリオサイト（[altena.me](https://altena.me) / さくらの VPS + nginx + Express）。
+  
+### ブラウザ拡張機能
+
+- **[PullDown QR](https://github.com/4ltena/PullDownQR)** `JavaScript` — リンクにマウスを重ねるだけで遷移先 URL の QR コードを即座に表示する Chrome 拡張（Manifest V3 / 端末内完結）。
+- **[TabHook](https://github.com/4ltena/TabHook)** `JavaScript` — Chrome 拡張機能（公開準備中）。
+
+### AI
+
+- **[LecShare](https://github.com/4ltena/lecshare)** `Python` — 授業の録音をアップロードするだけで、文字起こし・要点整理・課題/期限の抽出・試験頻出度分析までを自動化するクラス単位の学習支援プラットフォーム。
+- **[The Digital Lyceum](https://github.com/4ltena/DigitalLyceum)** `JavaScript` — 偉人の AI ペルソナが与えた問いをめぐって議論するコアエンジン（ローカル Ollama 連携）。
+
+### IoT
+
+- **[BirdMonitoring](https://github.com/4ltena/BirdMonitoring)** `Python` / `MicroPython` — 野鳥観測のためのモニタリングシステム（MicroPython + FastAPI/Flask + PostgreSQL）。
+
+## 📦 Projects
+
+GitHub 上で公開しているプロジェクトをカテゴリ別にまとめています。
+
+> **ステータス凡例**: 🟥 企画中 / 🟨 実装中 / ✅ 実装完了 / 🟢 運用中
+
+### Web サイト
+
+- 🟢 **[portfolio](https://github.com/4ltena/portfolio)** `HTML` — ポートフォリオサイト（[altena.me](https://altena.me) / さくらの VPS + nginx + Express）。
+
+### Discord Bot
+
+- 🟢 **[discord-SchoolTaskManager](https://github.com/4ltena/discord-SchoolTaskManager)** `Python` — Google Calendar と連携し課題・期限を管理する Discord Bot。
+
+### AI / 学習支援
+
+- 🟨 **[LecShare](https://github.com/4ltena/lecshare)** `Python` — 授業の録音をアップロードするだけで、文字起こし・要点整理・課題/期限の抽出・試験頻出度分析までを自動化するクラス単位の学習支援プラットフォーム。
+- 🟨 **[The Digital Lyceum](https://github.com/4ltena/DigitalLyceum)** `JavaScript` — 偉人の AI ペルソナが与えた問いをめぐって議論するコアエンジン（ローカル Ollama 連携）。
+
+### IoT / ハードウェア
+
+- ✅ **[BirdMonitoring](https://github.com/4ltena/BirdMonitoring)** `Python` / `MicroPython` — 野鳥観測のためのモニタリングシステム（MicroPython + FastAPI/Flask + PostgreSQL）。
+- ✅ **[artnet2usbdmx](https://github.com/4ltena/artnet2usbdmx)** `Python` — Art-Net (UDP 6454) を受信し USB-DMX（FT232R / Enttec DMX USB Pro）から DMX512 を連続送出する、Raspberry Pi 向けの最小構成ツール（2 ユニバース LTP マージ対応）。
+
+### 3DCG / AR
+
+- 🟥 **[UE-ARLiveSystem](https://github.com/4ltena/UE-ARLiveSystem)** `TypeScript` — Unreal Engine ベースの AR ライブ演出システム。
+
+### Claude / Claude Code
+
+- ✅ **[projstat](https://github.com/4ltena/projstat)** `Go` — `CLAUDE.md` / `.superpowers` などを検出してローカルのプロジェクトを Planning / Coding / Done に自動分類する単一バイナリのローカル Web ダッシュボード（外部通信なし）。
+- 🟢 **[ClaudeTokenMonitor](https://github.com/n-ekona/ClaudeTokenMonitor)** `C#` / `.NET` _(Contributor)_ — `~/.claude/projects/**/*.jsonl` を解析し、Claude Code のトークン使用量・コストをリアルタイムに可視化するクロスプラットフォーム（Windows / macOS / Linux）アプリ（時系列グラフ + アクティビティ・ヒートマップ / .NET 9 + WebView2）。
+- 🟢 **[claude-transcript-organizer](https://github.com/4ltena/claude-transcript-organizer)** — Claude のトランスクリプト（会話ログ）を整理・管理するツール（準備中）。
+
+### デスクトップ / CLI ツール
+
+- 🟨 **[Mermaid Local Editor](https://github.com/4ltena/mermaid-local-editor)** `TypeScript` — 完全ローカル・オフラインで動作するクロスプラットフォームの Mermaid ダイアグラムエディタ（mermaid.live のデスクトップ版）。
+
+### ブラウザ拡張機能
+
+- ✅ **[PullDown QR](https://github.com/4ltena/PullDownQR)** `JavaScript` — リンクにマウスを重ねるだけで遷移先 URL の QR コードを即座に表示する Chrome 拡張（端末内完結 / 公開準備中）。
+- ✅ **[TabHook](https://github.com/4ltena/TabHook)** `JavaScript` — Chrome 拡張機能（公開準備中）。
