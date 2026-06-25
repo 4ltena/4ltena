@@ -148,36 +148,6 @@
 - [ ] 実用数学技能検定 1級
 
 ## 📦 Projects
-GitHub 上で公開しているプロジェクトをカテゴリ別にまとめています。
-
-### デスクトップ / CLI ツール
-
-- **[projstat](https://github.com/4ltena/projstat)** `Go` — ローカルのプロジェクトを Planning / Coding / Done に自動分類する単一バイナリのローカル Web ダッシュボード（外部通信なし）。
-- **[Mermaid Local Editor](https://github.com/4ltena/mermaid-local-editor)** `TypeScript` — 完全ローカル・オフラインで動作するクロスプラットフォームの Mermaid ダイアグラムエディタ（mermaid.live のデスクトップ版）。
-  
-### Discord Bot
-
-- **[discord-SchoolTaskManager](https://github.com/4ltena/discord-SchoolTaskManager)** `Python` — Google Calendar と連携し課題・期限を管理する Discord Bot。
-
-### Web サイト
-
-- **[portfolio](https://github.com/4ltena/portfolio)** `HTML` — ポートフォリオサイト（[altena.me](https://altena.me) / さくらの VPS + nginx + Express）。
-  
-### ブラウザ拡張機能
-
-- **[PullDown QR](https://github.com/4ltena/PullDownQR)** `JavaScript` — リンクにマウスを重ねるだけで遷移先 URL の QR コードを即座に表示する Chrome 拡張（Manifest V3 / 端末内完結）。
-- **[TabHook](https://github.com/4ltena/TabHook)** `JavaScript` — Chrome 拡張機能（公開準備中）。
-
-### AI
-
-- **[LecShare](https://github.com/4ltena/lecshare)** `Python` — 授業の録音をアップロードするだけで、文字起こし・要点整理・課題/期限の抽出・試験頻出度分析までを自動化するクラス単位の学習支援プラットフォーム。
-- **[The Digital Lyceum](https://github.com/4ltena/DigitalLyceum)** `JavaScript` — 偉人の AI ペルソナが与えた問いをめぐって議論するコアエンジン（ローカル Ollama 連携）。
-
-### IoT
-
-- **[BirdMonitoring](https://github.com/4ltena/BirdMonitoring)** `Python` / `MicroPython` — 野鳥観測のためのモニタリングシステム（MicroPython + FastAPI/Flask + PostgreSQL）。
-
-## 📦 Projects
 
 GitHub 上で公開しているプロジェクトをカテゴリ別にまとめています。
 
