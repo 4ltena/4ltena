@@ -1,13 +1,10 @@
 # Hi there, I'm Altena 👋
 
-高専情報系4年のエンジニアです。インフラ・AI・3DCGの領域を横断しながら、ハードウェア（Raspberry Pi / IoT）、Web フロントエンド、DCC ツール、クラウドインフラまで幅広く開発・勉強しています。
+高専情報系4年
+インフラ・AI・3DCGの領域を横断しながら、ハードウェア（Raspberry Pi / IoT）、Web フロントエンド、DCC ツール、クラウドインフラまで幅広く勉強しています。
 
-「第2回 さくらのAIハッカソン with Kloud」にチームで参加し、**最優秀賞**を受賞。
-現在はインフラ安定運用・IaC・データサイエンス（GCI 受講中）を中心に学習を進めています。
-
-- 現在取り組んでいること: IaC（Terraform / Ansible）学習・Docker を用いた環境構築・GCI
+- 現在取り組んでいること: IaC（Terraform / Ansible）学習・Docker を用いた環境構築
 - 得意領域: インフラ運用 / Raspberry Pi・IoT / 3DCG（Blender・Maya・Unreal Engine）/ AI 活用開発
-- 保有資格: 応用情報技術者・G検定・LPIC Lv1 他
 - 趣味・関心: 資格取得・3DCG・執筆
 
 ---
