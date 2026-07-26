@@ -181,7 +181,7 @@ GitHub 上で公開しているプロジェクトをカテゴリ別にまとめ�
 
 ### デスクトップ / CLI ツール
 
-- 🟨 **[Mermaid Local Editor](https://github.com/Altena-Works/mermaid-local-editor)** `TypeScript` — 完全ローカル・オフラインで動作するクロスプラットフォームの Mermaid ダイアグラムエディタ（mermaid.live のデスクトップ版）。
+- 🟢 **[Mermaid Local Editor](https://github.com/Altena-Works/mermaid-local-editor)** `TypeScript` — 完全ローカル・オフラインで動作するクロスプラットフォームの Mermaid ダイアグラムエディタ。
 
 ### ブラウザ拡張機能
 
