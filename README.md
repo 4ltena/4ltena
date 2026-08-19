@@ -114,7 +114,7 @@
 - [ ] Cisco DevNet Associate (DevAsc)
 - [ ] AWS Solutions Architect Associate (AWS-SAA)
 - [ ] AWS Certified Data Engineer Associate (AWS-DEA)
-- [ ] 第二級デジタル通信
+- [x] 第二級デジタル通信 (2026-07-26T13:15:00+09:00)
 - [ ] 第一級デジタル通信
 - [ ] ネットワークスペシャリスト
 ### Data Science / AI
