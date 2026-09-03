@@ -76,6 +76,50 @@
 ### Dev Tools
 ![](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/Claude_Code-D97757?logo=claudecode&logoColor=white)
+
+---
+
+## 📦 Projects
+
+GitHub 上で公開しているプロジェクトをカテゴリ別にまとめています。
+
+> **ステータス凡例**: 🟥 企画中 / 🟨 実装中 / ✅ 実装完了 / 🟢 運用中 / ⬛ 運用終了
+
+### Web サイト
+
+- 🟢 **[portfolio](https://github.com/4ltena/portfolio)** `HTML` — ポートフォリオサイト（[altena.me](https://altena.me) / さくらの VPS + nginx + Express）。
+- 🟨 **[The Digital Lyceum](https://github.com/4ltena/DigitalLyceum)** `JavaScript` — 偉人の AI ペルソナが与えた問いをめぐって議論するコアエンジン（ローカルLLM / API 動作）。
+
+### Discord Bot
+
+- 🟢 **[discord-SchoolTaskManager](https://github.com/4ltena/discord-SchoolTaskManager)** `Python` — Google Calendar と連携し課題・期限を管理する Discord Bot。
+
+### AI / 学習支援
+
+- 🟨 **[polaris](https://github.com/4ltena/polaris)** `Rust` — 毎ターンの常時コンテキストを 990 トークン以下に保つコーディングエージェントハーネス。
+- 🟨 **[LecShare](https://github.com/4ltena/lecshare)** `Python` — 授業の録音をアップロードするだけで、文字起こし・要点整理・課題/期限の抽出・試験頻出度分析までを自動化するクラス単位の学習支援プラットフォーム。
+- 🟨 **[kotoha](https://github.com/4ltena/kotoha)** `Python` / `JavaScript` — PC上でリアルタイム会話が出来るAIアシスタント（ローカルLLM / API 動作）
+
+### Claude / Claude Code
+
+- ✅ **[projstat](https://github.com/4ltena/projstat)** `Go` — `CLAUDE.md` / `.superpowers` などを検出してローカルのプロジェクトを Planning / Coding / Done に自動分類する単一バイナリのローカル Web ダッシュボード（外部通信なし）。
+- 🟢 **[ClaudeTokenMonitor](https://github.com/n-ekona/ClaudeTokenMonitor)** `C#` / `.NET` _(Contributor)_ — `~/.claude/projects/**/*.jsonl` を解析し、Claude Code のトークン使用量・コストをリアルタイムに可視化するクロスプラットフォーム（Windows / macOS / Linux）アプリ。
+
+### デスクトップ / CLI ツール
+
+- 🟢 **[Mermaid Local Editor](https://github.com/Altena-Works/mermaid-local-editor)** `TypeScript` / `Rust` — 完全ローカル・オフラインで動作するクロスプラットフォームの Mermaid ダイアグラムエディタ（Windows・macOS・Linux）。
+
+### ブラウザ拡張機能
+
+- ✅ **[PullDown QR](https://github.com/Altena-Works/PullDownQR)** `JavaScript` — リンクにマウスを重ねるだけで遷移先 URL の QR コードを即座に表示する Chrome 拡張。
+- ✅ **[TabHook](https://github.com/4ltena/TabHook)** `JavaScript` — 放置されたタブの内容を LLM が分析し、続きが気になる一言をデスクトップ通知で届ける Chrome 拡張（OpenAI / Claude / Gemini API + Ollamaに対応）。
+
+### IoT / ハードウェア
+
+- ✅ **[artnet2usbdmx](https://github.com/4ltena/artnet2usbdmx)** `Python` — Art-Net (UDP 6454) を受信し USB-DMX（FT232R / Enttec DMX USB Pro）から DMX512 を連続送出する、Raspberry Pi 向けの最小構成ツール（2 ユニバース LTP マージ対応）。
+- ✅ **[BirdMonitoring](https://github.com/4ltena/BirdMonitoring)** `Python` / `MicroPython` — 鳥が外にいるかを判定するモニタリングシステム（MicroPython + FastAPI/Flask + PostgreSQL）。
+- ⬛ **[kominka-reserver](https://github.com/4ltena/kominka-reserver)** `JavaScript` — インターンでの共同生活に際して作成したExpressアプリ。LAN内のRaspberry Pi上で運用済。
 
 ---
  
@@ -144,50 +188,6 @@
 - [ ] 実用数学技能検定 2級
 - [ ] 実用数学技能検定 準1級
 - [ ] 実用数学技能検定 1級
-
-## 📦 Projects
-
-GitHub 上で公開しているプロジェクトをカテゴリ別にまとめています。
-
-> **ステータス凡例**: 🟥 企画中 / 🟨 実装中 / ✅ 実装完了 / 🟢 運用中
-
-### Web サイト
-
-- 🟢 **[portfolio](https://github.com/4ltena/portfolio)** `HTML` — ポートフォリオサイト（[altena.me](https://altena.me) / さくらの VPS + nginx + Express）。
-
-### Discord Bot
-
-- 🟢 **[discord-SchoolTaskManager](https://github.com/4ltena/discord-SchoolTaskManager)** `Python` — Google Calendar と連携し課題・期限を管理する Discord Bot。
-
-### AI / 学習支援
-
-- 🟨 **[LecShare](https://github.com/4ltena/lecshare)** `Python` — 授業の録音をアップロードするだけで、文字起こし・要点整理・課題/期限の抽出・試験頻出度分析までを自動化するクラス単位の学習支援プラットフォーム。
-- 🟨 **[The Digital Lyceum](https://github.com/4ltena/DigitalLyceum)** `JavaScript` — 偉人の AI ペルソナが与えた問いをめぐって議論するコアエンジン（ローカルLLM / API 動作）。
-- 🟨 **[kotoha](https://github.com/4ltena/kotoha)** `Python` / `JavaScript` — PC上でリアルタイム会話が出来るAIアシスタント（ローカルLLM / API 動作）
-
-### IoT / ハードウェア
-
-- ✅ **[BirdMonitoring](https://github.com/4ltena/BirdMonitoring)** `Python` / `MicroPython` — 鳥が外にいるかを判定するモニタリングシステム（MicroPython + FastAPI/Flask + PostgreSQL）。
-- ✅ **[artnet2usbdmx](https://github.com/4ltena/artnet2usbdmx)** `Python` — Art-Net (UDP 6454) を受信し USB-DMX（FT232R / Enttec DMX USB Pro）から DMX512 を連続送出する、Raspberry Pi 向けの最小構成ツール（2 ユニバース LTP マージ対応）。
-
-### 3DCG / AR
-
-- 🟥 **[UE-ARLiveSystem](https://github.com/4ltena/UE-ARLiveSystem)** `TypeScript` — Unreal Engine ベースの AR ライブ演出システム。
-
-### Claude / Claude Code
-
-- ✅ **[projstat](https://github.com/4ltena/projstat)** `Go` — `CLAUDE.md` / `.superpowers` などを検出してローカルのプロジェクトを Planning / Coding / Done に自動分類する単一バイナリのローカル Web ダッシュボード（外部通信なし）。
-- 🟢 **[ClaudeTokenMonitor](https://github.com/n-ekona/ClaudeTokenMonitor)** `C#` / `.NET` _(Contributor)_ — `~/.claude/projects/**/*.jsonl` を解析し、Claude Code のトークン使用量・コストをリアルタイムに可視化するクロスプラットフォーム（Windows / macOS / Linux）アプリ（時系列グラフ + アクティビティ・ヒートマップ / .NET 9 + WebView2）。
-- 🟢 **[claude-transcript-organizer](https://github.com/4ltena/claude-transcript-organizer)** — Claude のトランスクリプト（会話ログ）を整理・管理するツール。
-
-### デスクトップ / CLI ツール
-
-- 🟢 **[Mermaid Local Editor](https://github.com/Altena-Works/mermaid-local-editor)** `TypeScript` — 完全ローカル・オフラインで動作するクロスプラットフォームの Mermaid ダイアグラムエディタ。
-
-### ブラウザ拡張機能
-
-- ✅ **[PullDown QR](https://github.com/4ltena/PullDownQR)** `JavaScript` — リンクにマウスを重ねるだけで遷移先 URL の QR コードを即座に表示する Chrome 拡張（端末内完結 / 公開準備中）。
-- ✅ **[TabHook](https://github.com/4ltena/TabHook)** `JavaScript` — Chrome 拡張機能（公開準備中）。
 
 ### buy a black tea ☕
 
