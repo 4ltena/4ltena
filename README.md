@@ -91,6 +91,10 @@ GitHub 上で公開しているプロジェクトをカテゴリ別にまとめ�
 - 🟢 **[portfolio](https://github.com/4ltena/portfolio)** `HTML` — ポートフォリオサイト（[altena.me](https://altena.me) / さくらの VPS + nginx + Express）。
 - 🟨 **[The Digital Lyceum](https://github.com/4ltena/DigitalLyceum)** `JavaScript` — 偉人の AI ペルソナが与えた問いをめぐって議論するコアエンジン（ローカルLLM / API 動作）。
 
+### 3DCG
+
+- 🟨 **[Nexa](https://github.com/Altena-Works/Nexa)** `Rust` — MMD互換のアニメーション・レンダリング環境
+
 ### Discord Bot
 
 - 🟢 **[discord-SchoolTaskManager](https://github.com/4ltena/discord-SchoolTaskManager)** `Python` — Google Calendar と連携し課題・期限を管理する Discord Bot。
@@ -100,11 +104,6 @@ GitHub 上で公開しているプロジェクトをカテゴリ別にまとめ�
 - 🟨 **[polaris](https://github.com/4ltena/polaris)** `Rust` — 毎ターンの常時コンテキストを 990 トークン以下に保つコーディングエージェントハーネス。
 - 🟨 **[LecShare](https://github.com/4ltena/lecshare)** `Python` — 授業の録音をアップロードするだけで、文字起こし・要点整理・課題/期限の抽出・試験頻出度分析までを自動化するクラス単位の学習支援プラットフォーム。
 - 🟨 **[kotoha](https://github.com/4ltena/kotoha)** `Python` / `JavaScript` — PC上でリアルタイム会話が出来るAIアシスタント（ローカルLLM / API 動作）
-
-### Claude / Claude Code
-
-- ✅ **[projstat](https://github.com/4ltena/projstat)** `Go` — `CLAUDE.md` / `.superpowers` などを検出してローカルのプロジェクトを Planning / Coding / Done に自動分類する単一バイナリのローカル Web ダッシュボード（外部通信なし）。
-- 🟢 **[ClaudeTokenMonitor](https://github.com/n-ekona/ClaudeTokenMonitor)** `C#` / `.NET` _(Contributor)_ — `~/.claude/projects/**/*.jsonl` を解析し、Claude Code のトークン使用量・コストをリアルタイムに可視化するクロスプラットフォーム（Windows / macOS / Linux）アプリ。
 
 ### デスクトップ / CLI ツール
 
@@ -173,10 +172,10 @@ GitHub 上で公開しているプロジェクトをカテゴリ別にまとめ�
 - [x] 第二種電気工事士 (2026-07-18T10:00:00+09:00)
 - [ ] 第一種電気工事士
 - [ ] 第二級アナログ通信
-- [ ] 第二級アナログ通信
-- [ ] 第三級アマチュア無線
+- [ ] 第一級アナログ通信
+- [x] 第三級アマチュア無線
 - [ ] 第二級アマチュア無線
-- [ ] 第二級陸上特殊無線技師
+- [x] 第二級陸上特殊無線技士
 - [ ] 危険物取扱者試験 乙種第1類
 - [ ] 危険物取扱者試験 乙種第5類
 - [x] 品質管理検定 3級 (QC3級) (2026-06-28T13:15:00+09:00)
